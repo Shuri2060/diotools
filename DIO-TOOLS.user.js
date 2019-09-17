@@ -7,7 +7,7 @@
 // @downloadURL	https://diotools.de/downloads/DIO-TOOLS.user.js
 // @description DIO-Tools is a small extension for the browser game Grepolis. (counter, displays, smilies, trade options, changes to the layout)
 // @include		http://de.grepolis.com/game*
-// @include		/http[s]{0,1}://[a-z]{2}[0-9]{1,2}\.grepolis\.com/game*/
+// @include		/http[s]{0,1}://[a-z]{2}[0-9]{1,}\.grepolis\.com/game*/
 // @include		https://*.forum.grepolis.com/*
 // @include		http://diotools.de/*
 // @require		http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
